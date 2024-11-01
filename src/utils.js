@@ -57,9 +57,9 @@ export function applyNewMdTokens(theme, dark = false) {
 }
 
 
-import songsRaw from './data/.json'
-import shortsRaw from './data/.json'
-import mirroredIds from './data/.json'
+import songsRaw from './data/songs.json'
+import shortsRaw from './data/shorts.json'
+import mirroredIds from './data/mirrored.json'
 
 
 
