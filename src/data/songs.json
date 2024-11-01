@@ -58,5 +58,25 @@
         "note": null,
         "hidden": null,
         "cover": "jelee1.jpeg"
+    },
+    {
+        "name": "深海遊泳",
+        "artist": "JELEE",
+        "singer": "JELEE",
+        "translatedName": "只想说一声",
+        "length": "4:53",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2024-06-06T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=d9pOqWHY9Ws",
+        "desc": "/",
+        "staff": "Vocal：JELEE @JELEE",
+        "fileName": "深海遊泳.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "jelee4.jpg"
     }
 ]
