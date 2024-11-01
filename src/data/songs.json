@@ -1,2 +1,22 @@
 [
+    {
+        "name": "JELEE『月の温度』",
+        "artist": "JELEE",
+        "singer": "JELEE",
+        "translatedName": "只想说一声",
+        "length": "3:46",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "JELEEBOX",
+        "releaseDate": "2024-10-06T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=dI7ua9lauZ0",
+        "desc": "/",
+        "staff": "Vocal：JELEE @JELEE",
+        "fileName": "JELEE『月の温度』.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "jelee.jpg"
+    }
 ]
