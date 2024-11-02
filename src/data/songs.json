@@ -78,5 +78,25 @@
         "note": null,
         "hidden": null,
         "cover": "jelee4.jpg"
+    },
+    {
+        "name": "青一色",
+        "artist": "JELEE",
+        "singer": "JELEE",
+        "translatedName": "只想说一声",
+        "length": "3:37",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2024-05-25T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=g3OKl5OzwiU",
+        "desc": "/",
+        "staff": "Vocal：JELEE @40mP",
+        "fileName": "青一色.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "jelee4.jpeg"
     }
 ]
