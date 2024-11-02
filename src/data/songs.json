@@ -118,5 +118,25 @@
         "note": null,
         "hidden": null,
         "cover": "jelee&40mP.jpg"
+    },
+    {
+        "name": "40mP-1日は25時間。",
+        "artist": "40mP",
+        "singer": "40mP",
+        "translatedName": "只想说一声",
+        "length": "3:58",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2024-04-14T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=FMJdyyN_qIw",
+        "desc": "/",
+        "staff": "Vocal：40mP @40mP",
+        "fileName": "1日は25時間。.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "jelee&40mP.jpg"
     }
 ]
