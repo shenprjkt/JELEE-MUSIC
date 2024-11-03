@@ -7,8 +7,8 @@
         "length": "3:46",
         "type": "Standalone",
         "hasLyrics": "Yes",
-        "album": "",
-        "releaseDate": "2024-10-06T00:00:00.000Z",
+        "album": null,
+        "releaseDate": "2021-12-22T00:00:00.000Z",
         "link": "https://www.youtube.com/watch?v=dI7ua9lauZ0",
         "desc": "/",
         "staff": "Vocal：JELEE @JELEE",
@@ -17,7 +17,13 @@
         "highestQuality": "Yes",
         "note": null,
         "hidden": null,
-        "cover": "jelee.jpg"
+        "cover": "jelee.jpg",
+        "lyrics": "JELEE『月の温度』.json",
+        "lyricsLangs": [
+            "ja",
+            "cn",
+            "ro"
+        ]
     },
     {
         "name": "JELEE『渋谷アクアリウム』",
